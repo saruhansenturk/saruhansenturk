@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Furkan!
+
+I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I am passionate about expanding my skill set, and I am currently learning Express.js to delve into JavaScript-based server-side applications.
+
+## Current Tech Stack
+
+- **Backend:** .Net 7
+- **Backend:** Express.js
+- **Frontend:** Vue.js | Angular.js | Html | Css
+- **Database:** MsSql | PgAdmin
+- **Some Technologies:** Redis | RabbitMq
+
+
+## Learning Journey
+
+In addition to my current technologies, I am actively learning Express.js to broaden my expertise in server-side development with JavaScript.
+
+Feel free to check out my GitHub profile for my latest projects and contributions!
 
 <!--
 **saruhansenturk/saruhansenturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
