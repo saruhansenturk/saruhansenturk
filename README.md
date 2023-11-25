@@ -4,8 +4,8 @@ I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I a
 
 ## Current Tech Stack
 
-- **Backend:** .Net 7
-- **Backend:** Express.js
+- **Backend:** .Net 7 [![.Net](https://img.shields.io/badge/.Net-7-blue)](https://dotnet.microsoft.com/)
+ | Express.js
 - **Frontend:** Vue.js | Angular.js | Html | Css
 - **Database:** MsSql | PgAdmin
 - **Some Technologies:** Redis | RabbitMq
