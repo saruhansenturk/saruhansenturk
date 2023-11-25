@@ -4,7 +4,7 @@ I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I a
 
 ## Current Tech Stack
 
-- **Backend:** .Net 7 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="20" height="20"> | Express.js <img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" width="20" height="20">
+- **Backend:** .Net 7 ![.NetCore](https://img.shields.io/badge/.Net-Core-purple) | Express.js ![.NetCore](https://img.shields.io/badge/Express-Js-red)
 - **Frontend:** Vue.js ![Vue](https://img.shields.io/badge/Vue-Js-green) | Angular.js ![Angular](https://img.shields.io/badge/Angular-Js-red) | Html ![Html](https://img.shields.io/badge/Html-orange) | Css ![Css](https://img.shields.io/badge/css-blue)
 - **Database:** MsSql ![MsSql](https://img.shields.io/badge/MsSql-green) | PgAdmin ![PostgreSql](https://img.shields.io/badge/PostgreSql-blue)
 - **Some Technologies:** Redis ![Redis](https://img.shields.io/badge/Redis-red) | RabbitMq ![RabbitMq](https://img.shields.io/badge/RabbitMq-orange)
