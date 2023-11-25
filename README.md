@@ -12,10 +12,11 @@ I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I a
 
 ## Learning Journey
 
-In addition to my current technologies, I am actively learning Express.js to broaden my expertise in server-side development with JavaScript.
+🌿: In addition to my current technologies, I am actively learning Express.js to broaden my expertise in server-side development with JavaScript.
 
-Feel free to check out my GitHub profile for my latest projects and contributions!
+🐚 Feel free to check out my GitHub profile for my latest projects and contributions!
 
+📫 How to reach me: [srhnfrkn75@gmail.com]
 <!--
 **saruhansenturk/saruhansenturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
