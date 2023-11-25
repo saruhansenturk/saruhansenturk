@@ -8,7 +8,7 @@ I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I a
 - **Frontend:** Vue.js ![Vue](https://img.shields.io/badge/Vue-Js-green) | Angular.js ![Angular](https://img.shields.io/badge/Angular-Js-red) | Html ![Html](https://img.shields.io/badge/Html-orange) | Css ![Css](https://img.shields.io/badge/css-blue)
 - **Database:** MsSql ![MsSql](https://img.shields.io/badge/MsSql-green) | PgAdmin ![PostgreSql](https://img.shields.io/badge/PostgreSql-blue)
 - **Some Technologies:** Redis ![Redis](https://img.shields.io/badge/Redis-red) | RabbitMq ![RabbitMq](https://img.shields.io/badge/RabbitMq-orange)
-- 
+
 
 
 ## Learning Journey
