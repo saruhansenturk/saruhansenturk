@@ -4,10 +4,10 @@ I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I a
 
 ## Current Tech Stack
 
-- **Backend:** .Net 7 [![.Net](https://img.shields.io/badge/.Net-7-blue)](https://dotnet.microsoft.com/) | Express.js [![.Expressjs](https://img.shields.io/badge/.Express-Js-blue)]
+- **Backend:** .Net 7 [![.Net](https://img.shields.io/badge/.Net-7-blue)](https://dotnet.microsoft.com/) | Express.js ![.Expressjs](https://img.shields.io/badge/.Express-Js-blue)
 - **Frontend:** Vue.js ![Vue](https://img.shields.io/badge/Vue-Js-green) | Angular.js ![Angular](https://img.shields.io/badge/Angular-Js-red) | Html ![Html](https://img.shields.io/badge/Html-orange) | Css ![Css](https://img.shields.io/badge/css-blue)
-- **Database:** MsSql | PgAdmin
-- **Some Technologies:** Redis | RabbitMq
+- **Database:** MsSql ![MsSql](https://img.shields.io/badge/MsSql-green) | PgAdmin ![PostgreSql](https://img.shields.io/badge/PostgreSql-blue)
+- **Some Technologies:** Redis ![Redis](https://img.shields.io/badge/Redis-red) | RabbitMq ![RabbitMq](https://img.shields.io/badge/RabbitMq-orange)
 
 
 ## Learning Journey
