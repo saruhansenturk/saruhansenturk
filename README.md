@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm currently an active Software Engineer with a focus on .Net 7 and Vue.js. I am passionate about expanding my skill set, and I am currently learning Express.js to delve into JavaScript-based server-side applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saruhansenturk&label=Profile%20views&color=0e75b6&style=flat" alt="saruhansenturk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saruhansenturk" alt="saruhansenturk" /></a> </p>
 
 - 🔭 I’m currently working on [Progile](https://github.com/saruhansenturk/Progile)
 
