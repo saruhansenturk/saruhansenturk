@@ -3,14 +3,14 @@
 # Hi, I'm Saruhan 👋
 
 <a href="https://github.com/saruhansenturk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC08D&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+CoreX+Holding;.NET+%C2%B7+Vue.js+%C2%B7+Microservices;Building+software+for+port+%26+terminal+operations" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=4FC08D&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+CoreX+Holding;.NET+%C2%B7+Vue.js+%C2%B7+Microservices;Building+software+for+port+%26+terminal+operations" alt="Software Engineer @ CoreX Holding" />
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/saruhan75"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@saru75"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/15012872"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://instagram.com/saruhan_75"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/saruhan75"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@saru75"><img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/15012872"><img src="https://img.shields.io/badge/Stack_Overflow-161B22?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow" /></a>
+  <a href="https://instagram.com/saruhan_75"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -29,39 +29,56 @@ I'm a full-stack software engineer based in **Bursa, Türkiye**, working mostly 
 
 ### 🛠️ Tech stack
 
-**Backend**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ServiceStack](https://img.shields.io/badge/ServiceStack-21AEF1?style=for-the-badge&logoColor=white)
-![ABP](https://img.shields.io/badge/ABP.IO-E31B23?style=for-the-badge&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,postgres&theme=light" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,rabbitmq,postgres&theme=dark" alt="C#, .NET, Redis, RabbitMQ, PostgreSQL" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & mobile</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,ts,js,react,vite,flutter&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vue,ts,js,react,vite,flutter&theme=dark" alt="Vue.js, TypeScript, JavaScript, React, Vite, Flutter" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & AI</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,elasticsearch,tensorflow&theme=light" />
+        <img src="https://skillicons.dev/icons?i=python,elasticsearch,tensorflow&theme=dark" alt="Python, Elasticsearch, TensorFlow" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & tools</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure,docker,git,githubactions,postman,visualstudio&theme=light" />
+        <img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,postman,visualstudio&theme=dark" alt="Azure, Docker, Git, GitHub Actions, Postman, Visual Studio" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-**Frontend & mobile**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![DevExtreme](https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Data & AI**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5C2D91?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**DevOps & tools**  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic%20APM-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<sub>Also working with</sub>
+<br />
+<img src="https://img.shields.io/badge/ServiceStack-30363D?style=flat-square&logoColor=white" alt="ServiceStack" />
+<img src="https://img.shields.io/badge/SignalR-30363D?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
+<img src="https://img.shields.io/badge/.NET_MAUI-30363D?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+<img src="https://img.shields.io/badge/ABP_Framework-30363D?style=flat-square&logoColor=white" alt="ABP Framework" />
+<img src="https://img.shields.io/badge/SQL_Server-30363D?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Keycloak-30363D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+<img src="https://img.shields.io/badge/DevExtreme-30363D?style=flat-square&logoColor=white" alt="DevExtreme" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-30363D?style=flat-square&logoColor=white" alt="Semantic Kernel" />
+<img src="https://img.shields.io/badge/Azure_DevOps-30363D?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 
 ### 📌 Featured projects
 
@@ -73,6 +90,15 @@ I'm a full-stack software engineer based in **Bursa, Türkiye**, working mostly 
 | [**SemanticKernel.ImageCaptioning**](https://github.com/saruhansenturk/SemanticKernel.ImageCaptioning) + [UI](https://github.com/saruhansenturk/image-captioning) | Image captioning API with a Vue 3 front end | C# · Vue · TypeScript |
 | [**PortGen**](https://github.com/saruhansenturk/PortGen) | Layered DDD solution on ABP Framework | C# · ABP |
 | [**Portfolio**](https://github.com/saruhansenturk/PortfolioApp) | Personal portfolio: API, [site](https://github.com/saruhansenturk/PortfolioUi-Vue) and [admin panel](https://github.com/saruhansenturk/PortfolioAdm-Vue) | C# · Vue |
+
+### 🔥 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=saruhansenturk&theme=default&hide_border=true&background=FFFFFF00" />
+    <img src="https://streak-stats.demolab.com?user=saruhansenturk&theme=github-dark-blue&hide_border=true&background=0D111700" alt="GitHub streak" />
+  </picture>
+</div>
 
 ---
 
